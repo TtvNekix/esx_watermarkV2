@@ -5,7 +5,7 @@ It is a fully functional ESX script that places a fully functional watermark and
 SCRIPT IS NOT SUPPORTED BY Nekix
 
 
-Updates and improvements:
+-- Updates and improvements --
 
 You can use GIFS.
 
