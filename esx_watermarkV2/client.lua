@@ -1,0 +1,1 @@
+SetNuiFocus(true, false)
