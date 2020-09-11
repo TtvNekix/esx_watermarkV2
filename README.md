@@ -1,6 +1,7 @@
 ESX_WATERMARKV2
 
-INFO
+-- INFO --
+
 It is a fully functional ESX script that places a fully functional watermark and running with HTML, it does not consume much on the server.
 SCRIPT IS NOT SUPPORTED BY Nekix
 
