@@ -1,3 +1,4 @@
+-- CopyRight By TtvNekix 2022 ©️
 fx_version 'cerulean'
 games { 'gta5' }
 author 'Nekix'
